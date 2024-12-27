@@ -21,6 +21,11 @@ a:hover {
     color: #f0f0f0;
   }
 
+h3.mt-5 {
+    color: white;
+}
+
+
 .card {
     background-color: rgba(255, 255, 255, 0.5); /* White background with 80% opacity */
     border: none; /* Optional: Removes the card border for a cleaner look */
