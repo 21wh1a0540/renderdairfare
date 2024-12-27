@@ -1,7 +1,13 @@
+
 body {
-    background-color: #e1f4f3;
-    text-align: center;
+        background-image: url('f.jpg');
+
+        background-size: cover; /* Ensures the image covers the entire page */
+        background-position: center center; /* Centers the background image */
+        background-repeat: no-repeat; /* Prevents the image from repeating */
+        text-align: center;
 }
+
 
 .navbar {
     background-color: #333333;
